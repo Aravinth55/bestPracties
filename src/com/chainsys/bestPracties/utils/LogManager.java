@@ -1,4 +1,4 @@
-package com.chainsys.bestPracties.utils;
+ package com.chainsys.bestPracties.utils;
 
 public class LogManager {
 
